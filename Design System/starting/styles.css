@@ -1,0 +1,138 @@
+
+/*General*/
+h1 {
+    font-family: Bitter;
+    font-weight: 700;
+    font-size: 26px;
+}
+
+h2 {
+    font-family: Libre Baskerville;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+p {
+    font-family: Sofia Sans;\index.html;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.container {
+    border: solid 2px black;
+    width: 100%;
+    align-items: center;
+    margin: 40px auto;
+    
+}
+
+
+/*Color Section*/
+
+.color-container-turqoise {
+    background-color: #38c5c5;
+    padding: 20px 35px;
+    padding-top: 36.5px;
+    margin: 10px 20px;
+    width: 25px;
+    display: inline-block;
+    text-align: center;
+    padding-right: 50px;
+}
+
+
+.color-container-light-purple {
+    background-color: #c364c3;
+    padding: 20px 35px;
+    display: inline-block;
+    margin: 10px 20px;
+    width: 25px;
+    text-align: center;
+    padding-right: 50px;
+}
+
+.color-container-pink {
+    background-color: #f26dc6;
+    padding: 20px 35px;
+    display: inline-block;
+    margin: 10px 20px;
+    width: 25px;
+    text-align: center;
+    padding-right: 50px;
+}
+
+.color-container-green{
+    background-color: #46d072;
+    padding: 20px 35px;
+    display: inline-block;
+    margin: 10px 20px;
+    width: 25px;
+    text-align: center;
+    padding-right: 50px;
+}
+
+.color-container-heavenly-blue{
+    background-color: #8d9edd;
+    padding: 20px 35px;
+    display: inline-block;
+    margin: 10px 20px;
+    width: 25px;
+    align-items: center;
+    padding-right: 50px;
+}
+
+.color-label, .hex-color {
+    color: white;
+}
+
+/*Font Section*/
+
+/*Sofia Sans*/
+
+.font-panel {
+    display: inline-block;
+    margin: 40px;
+}
+
+.font-label-sofia-sans {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.sofia-sans-italic {
+    font-style: italic;
+}
+
+.sofia-sans-bold {
+    font-weight: 700;
+}
+
+/*Bitter*/
+
+.font-label-bitter {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.bitter-italic {
+    font-style: italic;
+}
+
+.bitter-bold {
+    font-weight: 700;
+}
+
+/*Libre Baskerville*/
+
+.font-label-libre-baskerville {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.libre-baskerville-italic {
+    font-style: italic;
+}
+
+.libre-baskerville-bold {
+    font-weight: 700;
+}
